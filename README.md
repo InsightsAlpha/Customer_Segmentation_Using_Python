@@ -1,7 +1,7 @@
 
 ---
 
-# Customer Segmentation Project
+# Customer Segmentation Using K-Means Algorithm Python Project
 
 ## Overview
 
