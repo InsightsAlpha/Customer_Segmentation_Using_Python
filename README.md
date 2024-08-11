@@ -1,5 +1,3 @@
-# Customer_Segmentation_Using_Python
-To create a comprehensive README for your customer segmentation project using the Mall Customers dataset, here is a structured guide that you can use:
 
 ---
 
@@ -93,4 +91,4 @@ For any questions or feedback, Please reach out to [https://insightsalpha.github
 
 ---
 
-This README provides a structured overview, step-by-step instructions, and a summary of your project, making it easy for others to understand and replicate your work.
+
