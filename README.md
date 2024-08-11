@@ -90,5 +90,20 @@ This project demonstrates the power of K-Means clustering in identifying distinc
 For any questions or feedback, Please reach out to [https://insightsalpha.github.io/Portfolio/] Contact Us Section.
 
 ---
+---
+---
+### Some Basic Prerequisites Knowladge as_ . 
+![image](https://github.com/user-attachments/assets/539157ce-7ee3-442a-a492-f67fc493d209)
+![image](https://github.com/user-attachments/assets/1bc7ddcf-4272-4844-a46b-9014398daa6d)
+![image](https://github.com/user-attachments/assets/61a0470b-7c97-48c6-8ce1-ffe8e22839cf)
+![image](https://github.com/user-attachments/assets/25aef425-eda7-447c-89a6-cad6c4bf1469)
+![image](https://github.com/user-attachments/assets/b1ae73ca-a59c-461a-b3bc-f93faeca7ed1)
+![image](https://github.com/user-attachments/assets/0bbe4e82-6f83-4597-adaf-0aa548b55ea3)
+![image](https://github.com/user-attachments/assets/d76645fd-4651-4f8e-95be-139f5076e598)
+![image](https://github.com/user-attachments/assets/d3a05a3d-f4ad-451b-b786-2b489d5e3036)
+![image](https://github.com/user-attachments/assets/c71e12dc-755a-4e54-bb25-13ceffc2eaae)
+![image](https://github.com/user-attachments/assets/73a630c3-226c-433c-91dd-da72dd170186)
+
+---
 
 
