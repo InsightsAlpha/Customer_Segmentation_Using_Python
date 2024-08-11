@@ -1,7 +1,6 @@
 ---
 ---
 # Preview of Code With Output:
---
 
 ![image](https://github.com/user-attachments/assets/7757ad03-002b-4ebc-8bd0-23d054ecf158)
 --
