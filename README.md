@@ -85,10 +85,6 @@ This project demonstrates the power of K-Means clustering in identifying distinc
 2. Ensure all dependencies are installed.
 3. Run the Jupyter notebook to see the analysis and visualizations.
 
-## Contact
-
-For any questions or feedback, Please reach out to [https://insightsalpha.github.io/Portfolio/] Contact Us Section.
-
 ---
 ---
 ---
@@ -104,6 +100,9 @@ For any questions or feedback, Please reach out to [https://insightsalpha.github
 ![image](https://github.com/user-attachments/assets/c71e12dc-755a-4e54-bb25-13ceffc2eaae)
 ![image](https://github.com/user-attachments/assets/73a630c3-226c-433c-91dd-da72dd170186)
 
+## Contact Us Here :->
+
+For any questions or feedback, Please reach out to [https://insightsalpha.github.io/Portfolio/] Contact Us Section.
 ---
 
 
